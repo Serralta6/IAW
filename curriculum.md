@@ -45,6 +45,7 @@ sudo apt update && sudo apt install nginx -y
 |------------|----------------|
 | Español    | Nativo         |
 | Inglés     | Intermedio     |
-| Valenciano | Básico/Medio   |
+| Valenciano | Nativo         |
 
 ---
+
